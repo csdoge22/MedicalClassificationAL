@@ -1,0 +1,2 @@
+Convolutional Neural Network: 1h 17m
+Random Forest Classifier: 
